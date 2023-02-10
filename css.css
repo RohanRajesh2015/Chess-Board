@@ -1,0 +1,38 @@
+td{
+    color: Black;
+    width: 15px;
+    background-color:White;
+    padding: 20px;
+    font-size: 50px;
+
+
+}
+.black{
+    color: white;
+    background-color: black;
+}
+body{
+    background: linear-gradient rgba(14, 14, 79, 0.713);
+    text-align: center;
+    margin-top: 5%;
+}
+h1{
+    text-transform: uppercase;
+}
+table{
+    margin-top: 10%;
+    margin-left: 20%;
+}
+.empty{
+    padding: 45px;
+}
+.black:hover{
+    background-color: chocolate;
+}
+.white{
+    color: black;
+    background-color: white;
+}
+.white:hover{
+    background-color: chocolate;
+}
